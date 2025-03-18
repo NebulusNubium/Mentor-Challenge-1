@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(../fonts/Outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: "Outfit Regular", sans-serif;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: #d5e1d5ef;
+    margin: 0;
+}
+
+h1 {
+    font-family: "Outfit Bold";
+    color: #1f314f;
+    font-size: 22px;
+    line-height: 120%;
+}
+
+.univers {
+    background-color: #68778D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.carte {
+    background-color: white;
+    border-radius: 5px;
+    width: 20%;
+    height: 50%;
+    padding: 1rem;
+}
+
+.img
+{
+
+}
+.img img {
+    width: 100%;
+}
